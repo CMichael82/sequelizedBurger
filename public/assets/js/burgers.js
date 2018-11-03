@@ -29,9 +29,9 @@ $(function () {
 			type: "POST",
 			data: newBurger
 		}).then(function () {
-			console.log("Created New Burger");
 			location.reload();
+			console.log("Created New Burger");
 		});
-		console.log("You Clicked Me!");
+		// console.log("You Clicked Me!");
 	});
 });

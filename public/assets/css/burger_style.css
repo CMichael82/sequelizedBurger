@@ -1,0 +1,49 @@
+.container {
+	background-color: #cfebea;
+	border: 5px solid #87CDCA;
+	margin: 50px auto;
+}
+
+h1 {
+	color: red;
+}
+
+h1, h5, h6 {
+	text-align: center;
+}
+
+form {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+li, span {
+	list-style-type: none;
+	margin: 5px;
+}
+
+#burgerIcon{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	height: 25%;
+}
+
+.devour-it,.isDevoured{
+	color: red;
+	font-size: 12px;
+}
+
+.devouredList {
+	margin-right: 50px;
+	text-align: right;
+}
+
+.id {
+	border: 1px solid darkgray;
+	background-color: lightgray;
+}
+
